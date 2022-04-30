@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm install --save-dev jest"
+    "test": "npm install --save-dev jest",
+    "start": "node index.js"  //al llamar star ejecuta node index.js
   },
   "author": "",
   "license": "ISC",
