@@ -1,11 +1,11 @@
 {
-  "name": "ls",
+  "name": "my_launchx_app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/.bin/jest",
-    "start": "node index.js"  //al llamar star ejecuta node index.js
+    "start": "node index.js"  
   },
   "author": "",
   "license": "ISC",
